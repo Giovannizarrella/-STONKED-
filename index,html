@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>$STONKED – Too High To Fall</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-green-900 text-white font-sans">
+  <header class="text-center p-6 bg-green-800">
+    <h1 class="text-4xl font-bold">$STONKED</h1>
+    <p class="text-xl mt-2">Too High to Fall</p>
+  </header>
+
+  <section class="text-center p-8 bg-green-700">
+    <h2 class="text-2xl font-bold">🚀 Just launched on Pump.fun</h2>
+    <p class="mt-4">The first cannabis meme coin on Solana – mint now, HODL forever!</p>
+    <a href="https://pump.fun/yourtokenlink" class="mt-4 inline-block px-6 py-2 bg-lime-400 text-green-900 rounded font-bold">Mint $STONKED Now</a>
+  </section>
+
+  <section class="p-6 bg-green-800">
+    <h3 class="text-xl font-semibold mb-2">🌿 About $STONKED</h3>
+    <p>
+      $STONKED is a memecoin born out of degenerate stoner vibes and Solana speed. 
+      We’re here to meme, mint and melt faces – one bong hit at a time.
+    </p>
+  </section>
+
+  <section class="p-6 bg-green-900">
+    <h3 class="text-xl font-semibold mb-2">📊 Tokenomics</h3>
+    <ul class="list-disc list-inside">
+      <li>Total Supply: 1,000,000</li>
+      <li>100% Fair Launch via Pump.fun</li>
+      <li>No dev wallet. No presale. Only $STONKED.</li>
+    </ul>
+  </section>
+
+  <section class="p-6 bg-green-800 text-center">
+    <h3 class="text-xl font-semibold">🔗 Links</h3>
+    <div class="space-y-2">
+      <a class="block text-lime-300" href="https://pump.fun/yourtokenlink" target="_blank">Pump.fun</a>
+      <a class="block text-lime-300" href="https://twitter.com/yourhandle" target="_blank">Twitter</a>
+      <a class="block text-lime-300" href="https://birdeye.so" target="_blank">Chart (Birdeye)</a>
+    </div>
+  </section>
+
+  <footer class="p-4 text-center bg-green-900 text-xs">
+    © 2025 $STONKED DAO – All vibes reserved.
+  </footer>
+</body>
+</html>
